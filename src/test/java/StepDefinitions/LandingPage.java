@@ -53,8 +53,8 @@ public class LandingPage {
 	Thread.sleep(2000);
 		System.out.println("Extracted landprod name is " + landingprdname);
 		
-		
-		
+		System.out.println("Test Case is Done");
+		System.out.println("Received Output");
 	}
 	
 
