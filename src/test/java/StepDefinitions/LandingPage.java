@@ -55,6 +55,8 @@ public class LandingPage {
 		
 		System.out.println("Test Case is Done");
 		System.out.println("Received Output");
+		System.out.println("Received Output");
+		System.out.println("Received Output");
 	}
 	
 
