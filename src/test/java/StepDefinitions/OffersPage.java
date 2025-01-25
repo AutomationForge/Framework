@@ -69,7 +69,7 @@ public class OffersPage {
 		System.out.println(offerspagename);
 		System.out.println(textContextsetup.landingprdname);
 		//Assert.assertEquals(offerspagename, textContextsetup.landingprdname);
-		
+		System.out.println("Received Output");
 	}
 
 
