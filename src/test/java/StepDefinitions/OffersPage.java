@@ -70,6 +70,8 @@ public class OffersPage {
 		System.out.println(textContextsetup.landingprdname);
 		//Assert.assertEquals(offerspagename, textContextsetup.landingprdname);
 		System.out.println("Received Output");
+		System.out.println("Offers");
+		System.out.println("Page");
 	}
 
 
