@@ -17,6 +17,7 @@ public class hooks {
 	{
 		
 		this.textContextsetup = textContextsetup;
+		System.out.println("This is textcontextsetup");
 	}
 	@After
 	public void AfterScenario() throws IOException

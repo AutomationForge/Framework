@@ -46,6 +46,7 @@ public class OffersPage {
 		 offerspagename = offersPageobj.getoffertext();
 		
 		System.out.println("Extracted offerprod name is " + offerspagename);
+		System.out.println("ShortnameSearch");
 	  
 	}
 	
