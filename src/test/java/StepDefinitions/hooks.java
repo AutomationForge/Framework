@@ -22,7 +22,7 @@ public class hooks {
 	public void AfterScenario() throws IOException
 	{
 		textContextsetup.basetest.WebDrivermanager().quit();
-		
+		System.out.println("AfterScenario");
 		
 	}
 }

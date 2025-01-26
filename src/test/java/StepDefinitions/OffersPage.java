@@ -57,6 +57,7 @@ public class OffersPage {
 		Thread.sleep(2000);
 		
 		textContextsetup.genericcode.switchtoofferpage();
+		System.out.println("switchtoofferpage");
 	}
 	
 	
